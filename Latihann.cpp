@@ -1,3 +1,4 @@
+
 #include <iostream>
 using namespace std;
 class bangunDatar
@@ -26,4 +27,4 @@ int main(){
     refpP .panjang=10;
     refpP .lebar= 100;
     cout << bD.hitungLuas(refpP.lebar, refpP.panjang);
-}
+} 
